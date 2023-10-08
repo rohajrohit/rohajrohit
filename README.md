@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **TensorFlow,Pytorch,Keras**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohajrohit](https://github.com/rohajrohit)
+- 👨‍💻 All of my projects are available at [https://github.com/rohajrohit](https://github.com/rohajrohit?tab=repositories)
 
 - 📫 How to reach me **rohitrajcricketer@gmail.com**
 
-- ⚡ Fun fact **I play Cricket Very good.**
+- ⚡ Fun fact **I am very good cricket player.**
 
 
 
