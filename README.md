@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohajrohit](https://github.com/rohajrohit?tab=repositories)
 
-- 📫 How to reach me **rohitrajcricketer@gmail.com**
+- 📫 How to reach me **rohitraj.iitd4@gmail.com**
 
 - ⚡ Fun fact **I am very good cricket player.**
 
