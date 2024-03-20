@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Rohit Raj</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast | Data Analyst | Flutter App Devloper | Software Engineer Passionate from IIT Delhi</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast | Data Analyst | Flutter App Devloper |Python Backend Developer | Software Engineer Passionate from IIT Delhi</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I have currently completed the project  [Chat-Bots](https://github.com/rohajrohit/Chat-Bots)
+- 🔭 I have currently completed the project  [Question Generation using NLP]
 
 - 🌱 I’m currently learning **OpenCv,Computer Vision**
 
